@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\laboratory 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F78C03-D220-72BD-1171-6E58621B1C6C}|Assembly-CSharp.csproj|c:\\users\\user\\laboratory 5\\assets\\scripts_\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F78C03-D220-72BD-1171-6E58621B1C6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts_\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\user\\laboratory 5\\Assets\\SCRIPTS_\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPTS_\\Camera.cs",
+              "ToolTip": "C:\\Users\\user\\laboratory 5\\Assets\\SCRIPTS_\\Camera.cs",
+              "RelativeToolTip": "Assets\\SCRIPTS_\\Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:22:42.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
